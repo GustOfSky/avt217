@@ -1,0 +1,13 @@
+* {
+	margin: 1px;
+	padding: 8px;
+	box-sizing: border-box;
+}
+body {
+	background-color: #DED8FF ;
+	opacity: 0.9 ;
+	font-family: 'Merriweather', serif;
+}
+h2 {
+	font-family: 'Basic-Sans', sans-serif;
+}
