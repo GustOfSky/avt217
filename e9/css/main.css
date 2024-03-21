@@ -1,0 +1,42 @@
+* {
+	box-sizing: border-box;}
+}
+body {
+	margin: 1px;
+	padding: 5px;
+}
+main {
+	width: 100vw;
+}
+#p1 .p1-1{
+	background-color: whitesmoke;
+	width: 90px;
+	height: 90px;
+	background-color: #FFEEB9;
+	float: left;
+	border: 10px #FFEEB9;
+	margin: 10px;
+	transform: skew(60deg, 10deg);
+}
+* {
+	box-sizing: border-box;
+}
+#p2 .p1-2 {
+	background-color: red;
+	width: 90px;
+	height: 90px;
+	float: left;
+	border: 10px #FFEEB9;
+	margin: 10px;
+	transform: skew(20deg, 0deg);
+}
+.p2-1 {}
+#p2 .p2-2 {
+	width: 50px;
+	height: 40px;
+	background-color: darkred;
+	float: left;
+	border: 5px;
+	margin: 5px;
+	transform: skew(140deg);
+}
