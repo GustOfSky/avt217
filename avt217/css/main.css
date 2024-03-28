@@ -1,0 +1,35 @@
+body {
+	background-color: #DED8FF ;
+	opacity: 0.9 ;
+	font-family: 'Merriweather', serif;
+	margin: 1px;
+	padding: 5px;
+	box-sizing: border-box;
+}
+header {
+	width: 75vw;
+	margin: 25px auto;
+	background-color: dimgrey;
+}
+main {
+	width: 75vw;
+	margin: 25px auto;
+	background-color: skyblue;
+	display: flow-root;
+}
+.lcol {
+	width: 50%;
+	background-color: palegreen;
+	float: left;
+}
+.rcol {
+	width: 50%;
+	background-color: peachpuff;
+	float: left;
+}
+h2 {
+	font-family: 'Basic-Sans', sans-serif;
+}
+p {
+	font-family: 'Merriweather', serif;
+}
