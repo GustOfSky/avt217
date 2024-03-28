@@ -8,6 +8,20 @@ body {
 	opacity: 0.9 ;
 	font-family: 'Merriweather', serif;
 }
+header {
+	width: 75vw;
+	margin: 25px auto;
+	background-color: dimgrey;
+}
+main {
+	width: 75vw;
+	margin: 25px auto;
+	background-color: lightyellow;
+}
+.col {
+	width: 50%;
+	background-color: skyblue;
+}
 h2 {
 	font-family: 'Basic-Sans', sans-serif;
 }
