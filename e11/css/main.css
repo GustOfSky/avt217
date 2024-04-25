@@ -1,0 +1,54 @@
+.container {
+  margin: auto;
+  position: absolute;
+  width: 0px;
+  height: 0px;
+}
+.catear1 {
+	margin: auto;
+	position: absolute;
+	float: 0px;
+	width: 0px; 
+  	height: 90px;
+  	left:555px;
+  	border-left: 60px solid transparent;
+ 	border-right: 100px solid transparent; 
+  	border-bottom: 150px solid purple;
+  	transform: rotate(-5deg);
+}
+.catear2 {
+	margin: auto;
+	position: absolute;
+	float: right;
+	width: 0px; 
+  	height: 90px;
+  	right: 555px;
+  	border-left: 100px solid transparent;
+ 	border-right: 60px solid transparent; 
+  	border-bottom: 150px solid purple;
+  	transform: rotate(5deg);
+}
+.catearin1 {
+	margin: auto;
+	position: absolute;
+	float: 0px;
+	width: 0px; 
+  	height: 90px;
+  	left: 755px;
+  	border-left: 90px solid transparent;
+ 	border-right: 50px solid transparent; 
+  	border-bottom: 150px solid tomato;
+  	transform: rotate(5deg);
+}
+.catearin2 {
+	margin: auto;
+	position: absolute;
+	float: right;
+	width: 0px; 
+  	height: 90px;
+  	right: 555px;
+  	border-left: 90px solid transparent;
+ 	border-right: 50px solid transparent; 
+  	border-bottom: 150px solid tomato;
+  	transform: rotate(5deg);
+}

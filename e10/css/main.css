@@ -17,74 +17,27 @@ body {
 	width: 40vw;
 	margin: 50px auto;
 }
-/*Columns*/
-.allrows {
-	width: 1000px;
-	margin: 100px auto;
+header {
+	height: 150px;
+	margin: 25px;
 }
-.header {
-	width: 1000px;
-	height: 200px;
-	float: left;
-	background-color: tomato;
-	margin: 0 0 25px;
-}
-.nav {
-	width: 1000px;
-	height: 75px;
-	float: left;
-	background-color: tomato;
-	margin: 0 0 25px;
-}
-#col {
-	width: 300px;
-	height: 500px;
-	float: left;
-	background-color: darkorange;
-}
-.footer {
-	width: 1000px;
-	height: 80px;
-	float: left;
-	background-color: tomato;
-	margin: 10px 0 25px;
-}
-.center {
-	width: 300px;
-	height: 500px;
-	float: left;
-	background-color: tomato;
-	margin: 0 50px;
-}
-/*blog layout*/
-.blog {
-	margin: 15px auto;
-}
-.bheader {
-	width: 1000px;
-	height: 100px;
-	float: left;
-	background-color: dimgrey;
-	margin: 20px 250px 7px;
-}
-.column {
-	width: 730px;
-	height: 470px;
-	float: left;
-	background-color: khaki;
-	margin: 40px 250px;
-}
-.image {	
-	width: 240px;
-	height: 250px;
-	float: left;
-	background-color: khaki;
-	margin: -510px 1010px;
-}
-.subheader {
-	width: 730px;
+nav {
 	height: 50px;
-	float: left;
-	background-color: dimgrey;
-	margin: -14px 250px 70px;
+	margin: 0 0 25px 0;
+}
+.col {
+	width: 300px;
+	height: 800px;
+	margin: 0 0 25px 0;
+}
+#center {
+	margin: 0 25px;
+}
+footer {
+	height: 150px;
+	margin: 25px 0 0 0;
+}
+.container {
+	width: 950px;
+	display: flow-root;
 }
